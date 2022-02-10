@@ -1,0 +1,11 @@
+{
+    "name": "Stevenson Flik Menu",
+    "version": "1.0.0",
+    "description": "Todays breakfast, lunch, and dinner menu for RLS",
+    "manifest_version": 3,
+    "author": "Nathaniel Hahn",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "RLS Menu"
+    }
+}
